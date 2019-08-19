@@ -5,7 +5,7 @@ Free, open source roblox exploits.
 
 ### Zypher
 
-![_**Zypher**_](https://ibb.co/vHJvXRN)
+![Zypher](https://imgur.com/B8kx7Y6)
 
 Zypher is one of our many free exploits. It contains a purple & blue theme. Want to use it, or make some changes? The download can be found [here](https://www.mediafire.com/file/jup5xi0a6ak4lug/Zypher.rar/file)
 
