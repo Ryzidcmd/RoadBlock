@@ -1,7 +1,3 @@
-## Roadblock
-
-Free, open source roblox exploits.
-
 ```
 Please note that all of our exploits are free 
 and should not be charged for any money. 
