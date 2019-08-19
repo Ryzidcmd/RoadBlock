@@ -2,30 +2,15 @@
 
 Free, open source roblox exploits.
 
+```
+Please note that all of our exploits are free and should not be charged for any money, even if you make changes
+```
 
 ### Zypher
 
-![Zypher](https://imgur.com/B8kx7Y6)
-
 Zypher is one of our many free exploits. It contains a purple & blue theme. Want to use it, or make some changes? The download can be found [here](https://www.mediafire.com/file/jup5xi0a6ak4lug/Zypher.rar/file)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
