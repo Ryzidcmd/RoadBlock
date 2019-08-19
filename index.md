@@ -3,7 +3,9 @@
 Free, open source roblox exploits.
 
 ```
-Please note that all of our exploits are free and should not be charged for any money, even if you make changes
+Please note that all of our exploits are free 
+and should not be charged for any money. 
+Even if you make changes
 ```
 
 ### Zypher
